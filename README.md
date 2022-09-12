@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Nikhil.</h2>
+<h2> Hey there! I'm Nikhil. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://www.adorama.com/alc/wp-content/uploads/2021/03/video-editing-tips-beginners-feature.jpg" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
