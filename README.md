@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m VFX | Filmmaker artist and Youtuber with over 250k+ subscribers.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Studying Biotechnology and computer programming.
 - 💼 &nbsp; VFX artist and web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
