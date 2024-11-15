@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">I’m VFX | Filmmaker artist and Youtuber with over 250k+ subscribers.</h3>
+
 
 <img align="right" alt="GIF" src="https://www.adorama.com/alc/wp-content/uploads/2021/03/video-editing-tips-beginners-feature.jpg" width="500"/>
 
@@ -7,7 +7,6 @@
 
 
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
-- 🎓 &nbsp; Studying Biotechnology and computer programming.
 - 💼 &nbsp; VFX artist and web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Scifi Movies and trying out latest design trends as hobbies/side hustles.
